@@ -1,1 +1,3 @@
-# DataEngg_PySpark_Project
+# Data Engineering - PySpark
+
+This is a simple project notebook to showcase PySpark skills. 
